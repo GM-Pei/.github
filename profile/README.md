@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome to Pei
 
-<!--
+Pei's payment portal is designed to enable online sales systems, eCommernce platforms and business software to accept multiple payment methods including cards, bank claims (IS) and Pei’s native BNPL payment method. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### More information
+* [PEI Homepage](https://pei.is)
+* [Developers page](https://developer.pei.is)
