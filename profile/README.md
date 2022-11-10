@@ -4,4 +4,4 @@ Pei's payment portal is designed to enable online sales systems, eCommernce plat
 
 ### More information
 * [PEI Homepage](https://pei.is)
-* [Developers page](https://developer.pei.is)
+* [Developers page](https://pei.is/developer)
